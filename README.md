@@ -1,4 +1,4 @@
-<!-- <title>Hello World</title> -->
+<!-- Hello World -->
 
 ### [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) (programming language)
 ```
