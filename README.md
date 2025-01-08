@@ -10,3 +10,7 @@
 ```
 echo "Hello World"
 ```
+### [Text file](https://en.wikipedia.org/wiki/Text_file) (plain text file)
+```
+Hello World
+```
