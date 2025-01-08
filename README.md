@@ -1,6 +1,3 @@
-# Hello World
-Write a 'Hello, World!' program in a different programming language, display it using a terminal command, or explore other methods.
-
 ### [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) (programming language)
 ```
  print("Hello World")
